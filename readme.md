@@ -1,2 +1,2 @@
 ## test
-New Projext
+New Project
